@@ -12,7 +12,7 @@
 
 ### Commands
 - `cleanmr`: Cleans the model repository
-- `lsrm`: lists the model repisotory
+- `lsmr`: lists the model repisotory
 - `plsmr`: specify s3 uri and dive deeper into model repository tree
 
 ## Experiment1 - Prepoc
@@ -50,7 +50,7 @@ For any command run `<cmd> --help` to get inputs
            }
         ]
     ```
-- prepoc_provision: provisions the configured models to get latency, throughput information
+- `prepoc_provision`: provisions the configured models to get latency, throughput information
 
 ### Demo
 ```
